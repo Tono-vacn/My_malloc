@@ -1,6 +1,0 @@
-{
-  "files.associations": {
-    "my_malloc.h": "c",
-    "limits.h": "c"
-  }
-}
